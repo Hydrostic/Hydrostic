@@ -4,7 +4,7 @@ Also, I'm an green acmer.
 
 I've learnt languages like javascript, php, go, rust, cpp, but I don't master either of them.
 
-<img align="left" width="460" height="165" src="https://github-readme-stats.vercel.app/api?username=Hydrostic&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<img align="left" width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=Hydrostic&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 
 
 #### Languages Used Before...
