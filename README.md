@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently I'm a student studying in No Water and Power University, who show interests in building some projects that might be useless.
+Currently I'm a student studying in university, who show interests in building some projects that might be useless.
 Also, I'm an green acmer.
 
 I've learnt languages like javascript, php, go, rust, cpp, but I don't master either of them.
